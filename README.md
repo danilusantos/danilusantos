@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, sonhando em trabalhar como:
 
 **Desenvolvedor Front-End**.
 
-🦄 Linguagens: **HTML5 / CSS3 **
+🦄 Linguagens: ** HTML5 / CSS3 **
 
 💼 Ferramentas: **VSCode, Typora, Git.**
 
