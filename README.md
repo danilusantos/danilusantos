@@ -1,12 +1,12 @@
 [![Computador iuriCode](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)]()
 
-Estudante de Análise e Desenvolvimento de Sistemas, sonhando em trabalhar como:
+Estudante de Análise e Desenvolvimento de Sistemas, trabalhando atualmente como:
 
-**Desenvolvedor Front-End**.
+**Desenvolvedor FullStack**.
 
-🦄 Linguagens: **HTML5 / CSS3 / JAVASCRIPT / JQUERY / PHP**
+🦄 Linguagens: **HTML5 / CSS3 / JAVASCRIPT / JQUERY / PHP / LARAVEL / VUEJS / VITE / MYSQL**
 
-💼 Ferramentas: **VSCode, Typora, Git.**
+💼 Ferramentas: **VSCode, Git, HyperV, Linux.**
 
 💌 Se quiser entrar em contato: ⤵️
 
