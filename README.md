@@ -6,7 +6,7 @@ Trabalho desenvolvendo aplicações web, para empresas que visam melhorar a prod
 
 🦄 Linguagens: **HTML5 / CSS3 / JAVASCRIPT / JQUERY / AJAX / PHP / LARAVEL / MYSQL / PHPMYADMIN**
 
-💼 Ferramentas: **VSCode, Git, Linux.**
+💼 Ferramentas: **VSCode, PHPStorm, Linux.**
 
 💌 Bora bater um papo? Estou aberto a conversas e dicas! Me procure nas redes sociais: ⤵️
 
