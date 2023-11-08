@@ -4,7 +4,7 @@ Atualmente, estou criando alguns projetinhos e trabalhando integralmente como De
 
 Trabalho desenvolvendo aplicações web, para empresas que visam melhorar a produtividade utilizando da tecnologia.
 
-🦄 Linguagens: **HTML5 / CSS3 / JAVASCRIPT / JQUERY / AJAX / PHP / LARAVEL / MYSQL / PHPMYADMIN**
+🦄 Linguagens: **HTML / CSS / JAVASCRIPT / JQUERY / AJAX / PHP / LARAVEL / MYSQL**
 
 💼 Ferramentas: **VSCode, PHPStorm, Linux.**
 
