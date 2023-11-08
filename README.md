@@ -1,14 +1,51 @@
-[![Computador iuriCode](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)]()
 
-Atualmente, estou criando alguns projetinhos e trabalhando integralmente como Desenvolvedor Web.
+![](https://komarev.com/ghpvc/?username=danilusantos&color=006bed)
 
-Trabalho desenvolvendo aplicações web, para empresas que visam melhorar a produtividade utilizando da tecnologia.
+<h3>Sobre mim</h3>
 
-🦄 Linguagens: **HTML / CSS / JAVASCRIPT / JQUERY / AJAX / PHP / LARAVEL / MYSQL**
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas no <a href="https://fatecpg.edu.br/">FATECPG</a>.
+- 💼 Trabalhando como Codificador de Dados na <a href="https://itcode.com.br">Itcode Soluções Web</a>
+- 🌱 Aprendendo mais sobre **Laravel, PHP, MySQL, Livewire, Bootstrap**.
 
-💼 Ferramentas: **VSCode, PHPStorm, Linux.**
+<h3>Minhas Skills</h3>
 
-💌 Bora bater um papo? Estou aberto a conversas e dicas! Me procure nas redes sociais: ⤵️
+**Aplicações e dados**
 
-[![img](https://camo.githubusercontent.com/0137b0e6dbd05bb3986fa835806ca7b044f5cdaab7e4c8af8829ceec61195346/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d4c494e4b2d444f2d5345552d454d41494c)](mailto:danilondosantos@gmail.com) [![img](https://camo.githubusercontent.com/4754d9b981ccaa192658e293fa6ab42b543520e7ad39756929edc7e95fca43aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d4c494e4b2d444f2d5345552d4c494e4b4544494e)](https://www.linkedin.com/in/danilondosantos/) [![img](https://camo.githubusercontent.com/f87792c075186a37396ce967528ef3b24e885dbeec26ed04eb442fb69c16b20f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235643336363f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d323564333636266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d4150492d444f2d5345552d5748415453415050)](https://api.whatsapp.com/send?phone=5513997630543)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=CodeIgniter)
+![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.JS)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=PHPStorm&logoColor=AA5589)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/danilusantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilusantos&theme=tokyonight&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-danilondosantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilondosantos)](https://www.linkedin.com/in/danilondosantos)
+[![Gmail Badge](https://img.shields.io/badge/-danilondosantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilondosantos@gmail.com)](mailto:danilondosantos@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/danilusantos?label=follow&style=social)](https://github.com/danilusantos)
