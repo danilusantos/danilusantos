@@ -12,14 +12,17 @@
 
 **Aplicações e dados**
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![API](https://img.shields.io/badge/-API%20Restful-333333?style=flat&logo=laravel&logoColor=12FA45)
 ![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=CodeIgniter)
 ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.JS)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
+![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
