@@ -4,9 +4,9 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no <a href="https://fatecpg.edu.br/">FATECPG</a>.
-- 💼 Trabalhando como Codificador de Dados na <a href="https://itcode.com.br">Itcode Soluções Web</a>
-- 🌱 Aprendendo mais sobre **Laravel, PHP, MySQL, Livewire, Bootstrap**.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://fatecpg.edu.br/">FATECPG</a>.
+- 💼 Trabalhando como Desenvolvedor de Sistemas na <a href="https://itcode.com.br">Itcode Soluções Web</a>
+- 🌱 Aprendendo mais sobre **Laravel, PHP, MySQL, VueJS, API RESTFUL, Livewire, Bootstrap**.
 
 <h3>Minhas Skills</h3>
 
