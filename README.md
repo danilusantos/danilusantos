@@ -5,13 +5,16 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://fatecpg.edu.br/">FATECPG</a>.
-- 💼 Trabalhando como Desenvolvedor de Sistemas na <a href="https://itcode.com.br">Itcode Soluções Web</a>
-- 🌱 Aprendendo mais sobre **Laravel, PHP, MySQL, VueJS, API RESTFUL, Livewire, Bootstrap**.
+- 💼 Trabalhando como Desenvolvedor de Sistemas na <a href="https://soc.com.br">Age Technology</a>
+- 🌱 Aprendendo mais sobre **Java, MySQL, Struts2, React, SCRUM**.
 
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=springboot)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![API](https://img.shields.io/badge/-API%20Restful-333333?style=flat&logo=laravel&logoColor=12FA45)
 ![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)
@@ -38,9 +41,10 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=PHPStorm&logoColor=AA5589)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=6B3FA0)
 
 <br/>
 
