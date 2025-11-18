@@ -1,59 +1,87 @@
+# 👨‍💻 Danilo Nascimento dos Santos
 
-![](https://komarev.com/ghpvc/?username=danilusantos&color=006bed)
+### Desenvolvedor de Software \| Java \| Laravel \| React \| PHP \| MySQL \| Struts
 
-<h3>Sobre mim</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/danilondosantos)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/danilusantos)
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na <a href="https://fatecpg.edu.br/">FATECPG</a>.
-- 💼 Trabalhando como Desenvolvedor de Sistemas na <a href="https://soc.com.br">Age Technology</a>
-- 🌱 Aprendendo mais sobre **Java, MySQL, Struts2, React, SCRUM**.
+📧 danilondosantos@gmail.com\
+📱 +55 (13) 99763-0543
 
-<h3>Minhas Skills</h3>
+------------------------------------------------------------------------
 
-**Aplicações e dados**
+## 🚀 Sobre mim
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=springboot)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![API](https://img.shields.io/badge/-API%20Restful-333333?style=flat&logo=laravel&logoColor=12FA45)
-![Lumen](https://img.shields.io/badge/-Lumen-333333?style=flat&logo=lumen)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=CodeIgniter)
-![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.JS)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
-![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=jquery)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+Sou **Desenvolvedor de Software** com experiência em **Java (Struts)**,
+**PHP (Laravel)**, **React.js**, **Vue.js** e **MySQL**. Atuo com
+desenvolvimento de sistemas escaláveis, APIs RESTful, manutenção de
+aplicações legadas e modernização de plataformas.
 
-**Utilidades**
+------------------------------------------------------------------------
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+## 💼 Experiência Profissional
 
-**DevOps**
+### SOC -- Software de Saúde e Segurança do Trabalho
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+**Desenvolvedor de Software \| Set 2024 -- Atual \| Santos/SP
+(Híbrido)**\
+- Manutenção e desenvolvimento em Java (Struts), React.js e MySQL.\
+- Correção de bugs críticos e melhorias de performance.\
+- Participação em squads ágeis (Scrum).
 
-**Ferramentas de desenvolvimento**
+### Itcode Soluções Web
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=PHPStorm&logoColor=AA5589)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=6B3FA0)
+**Desenvolvedor Full Stack \| Dez 2022 -- Ago 2024 \| Remoto**\
+- Desenvolvimento com Laravel (PHP) e MySQL.\
+- Relatórios automatizados e integrações.\
+- Manutenção de sistemas legados.
 
-<br/>
+### Construmoura
 
-<a href="https://github.com/danilusantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilusantos&theme=tokyonight&show_icons=true" />
-</a>
+**Estagiário de Informática \| Nov 2021 -- Out 2022**\
+- Suporte técnico e manutenção de computadores.\
+- Intranet em PHP, MySQL, jQuery e AJAX.
 
-<h3>Onde me encontrar</h3>
+------------------------------------------------------------------------
 
-[![Linkedin](https://img.shields.io/badge/-danilondosantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilondosantos)](https://www.linkedin.com/in/danilondosantos)
-[![Gmail Badge](https://img.shields.io/badge/-danilondosantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilondosantos@gmail.com)](mailto:danilondosantos@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/danilusantos?label=follow&style=social)](https://github.com/danilusantos)
+## 🛠️ Tecnologias
+
+-   **Java (Struts), PHP (Laravel), React.js, Vue.js, JavaScript
+    (ES6+)**\
+-   **MySQL, Oracle (fundamentos)**\
+-   **Git, GitHub, Docker, CI/CD, Scrum**\
+-   **REST APIs, jQuery, AJAX**
+
+------------------------------------------------------------------------
+
+## 📚 Certificações
+
+-   Scrum Fundamentals Certified (SFC)\
+-   Java com Git -- Alura\
+-   Laravel Web Services Restful -- EspecializaTi\
+-   PHP PSRs -- EspecializaTi\
+-   Database Foundations -- Oracle\
+-   React -- Alura\
+-   Vue.js 3 -- EspecializaTi
+
+------------------------------------------------------------------------
+
+## 🌎 Idiomas
+
+-   Inglês -- A2 (EF SET)
+
+------------------------------------------------------------------------
+
+## 📈 Estatísticas do GitHub
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=danilusantos&show_icons=true&theme=tokyonight)
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilusantos&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+## 💬 Contato
+
+📧 **danilondosantos@gmail.com**\
+🔗 **LinkedIn:** https://linkedin.com/in/danilondosantos
