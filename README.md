@@ -1,87 +1,103 @@
-# 👨‍💻 Danilo Nascimento dos Santos
+# Danilo Nascimento dos Santos
 
-### Desenvolvedor de Software \| Java \| Laravel \| React \| PHP \| MySQL \| Struts
+### Desenvolvedor Java | Backend Developer | APIs REST | MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/danilondosantos)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/danilusantos)
+Experiência profissional com **Java, Struts 2, JDBC e testes unitários**. Projetos com **Spring Boot e Spring Data JPA**, somados à vivência full stack com React e TypeScript.
 
-📧 danilondosantos@gmail.com
-📱 +55 (13) 99763-0543
+📍 Praia Grande, São Paulo, Brasil  
+[LinkedIn](https://www.linkedin.com/in/danilondosantos/) · [E-mail](mailto:danilondosantos@gmail.com) · [Projetos](https://github.com/danilusantos?tab=repositories)
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou **Desenvolvedor de Software** com experiência em **Java (Struts)**,
-**PHP (Laravel)**, **React.js**, **Vue.js** e **MySQL**. Atuo com
-desenvolvimento de sistemas escaláveis, APIs RESTful, manutenção de
-aplicações legadas e modernização de plataformas.
+Sou desenvolvedor de software com atuação em desenvolvimento web desde 2022 e foco em **backend Java**. Atualmente, trabalho no **SOC — Software de Saúde e Segurança do Trabalho**, desenvolvendo funcionalidades, evoluindo aplicações legadas e integrando frontend, backend e banco de dados.
 
-------------------------------------------------------------------------
+Minha experiência inclui **análise de causa raiz de bugs, refatoração incremental, APIs REST e testes com JUnit e Mockito**. A vivência com React, TypeScript e Laravel complementa minha visão do fluxo completo de uma aplicação.
 
-## 💼 Experiência Profissional
+Nos meus projetos, aprofundo o uso de **Java 21 e Spring Boot**, explorando persistência, APIs REST e organização de código em camadas. Também estudo Java avançado, design patterns e arquitetura de software.
 
-### SOC -- Software de Saúde e Segurança do Trabalho
+**Foco de carreira:** desenvolvimento Java, backend e APIs, com atenção à qualidade do código e à evolução de sistemas.
 
-**Desenvolvedor de Software | Set 2024 -- Atual | Santos/SP
-(Híbrido)**
-- Manutenção e desenvolvimento em Java (Struts), React.js e MySQL.
-- Correção de bugs críticos e melhorias de performance.
-- Participação em squads ágeis (Scrum).
+## Projetos em destaque
+
+### [API REST com Java e Spring Boot](https://github.com/danilusantos/rest-with-spring-boot-and-java-danilusantos)
+
+Projeto de prática de desenvolvimento de uma API para cadastro de pessoas.
+
+- **Tecnologias:** Java 21, Spring Boot, Spring Data JPA, MySQL e Maven.
+- **No código:** operações de criação, consulta, atualização e exclusão, respostas HTTP e tratamento centralizado de exceções.
+- **Organização:** camadas de controller, service e repository, com injeção de dependências por construtor.
+
+[Explorar a implementação →](https://github.com/danilusantos/rest-with-spring-boot-and-java-danilusantos/tree/main/rest-with-spring-boot-and-java-danilusantos/src/main/java/br/com/miinlostudio)
+
+### [Docker Essentials](https://github.com/danilusantos/docker-essentials)
+
+Ambiente de apoio ao desenvolvimento com serviços MySQL e Redis em containers.
+
+- **Tecnologias:** Docker, Docker Compose e Shell Script.
+- **No repositório:** comandos para gerenciar serviços, consultar logs e executar rotinas de backup.
+
+## Competências técnicas
+
+| Contexto | Tecnologias e práticas |
+| --- | --- |
+| **Backend na experiência profissional** | Java, Struts 2, JDBC, APIs REST, PHP e Laravel |
+| **Java nos projetos** | Java 21, Spring Boot, Spring Data JPA e Maven |
+| **Qualidade e manutenção** | JUnit, Mockito, Jest, testes unitários, análise de bugs e refatoração incremental |
+| **Banco de dados** | MySQL, SQL, modelagem e otimização de consultas |
+| **Frontend** | React, TypeScript, JavaScript, JSP, HTML, CSS e Bootstrap |
+| **Ferramentas e colaboração** | Git, GitHub, GitLab, Docker, Scrum e Kanban |
+
+## Experiência profissional
+
+### SOC — Software de Saúde e Segurança do Trabalho
+**Desenvolvedor de Software Júnior · set/2024 – atual · Santos/SP · Híbrido**
+
+- Desenvolvimento e manutenção de funcionalidades com **Java (Struts 2), React/TypeScript e MySQL**.
+- Evolução de aplicações legadas em **JSP e JavaScript**, com refatorações incrementais voltadas à manutenibilidade.
+- Integração entre frontend, backend e banco de dados por meio de **APIs REST e JDBC**.
+- Desenvolvimento de **testes unitários com JUnit, Mockito e Jest**.
+- Análise de causa raiz de bugs e participação em cerimônias Scrum.
+- Atuação como referência do time na adoção do **Kiro** para desenvolvimento assistido por IA.
 
 ### Itcode Soluções Web
+**Desenvolvedor Full Stack · dez/2022 – ago/2024 · Remoto**
 
-**Desenvolvedor Full Stack \| Dez 2022 -- Ago 2024 \| Remoto**
-- Desenvolvimento com Laravel (PHP) e MySQL.
-- Relatórios automatizados e integrações.
-- Manutenção de sistemas legados.
+- Desenvolvimento de sistemas sob demanda, SaaS e portais internos com **Laravel, PHP, MySQL e Bootstrap**.
+- Atuação em backend, frontend e integração de dados.
+- Deploy em produção via **cPanel**, com configuração de PHP, dependências Composer e builds npm.
 
-### Construmoura
+### Construmoura Construtora e Empreendimentos
+**Estagiário de TI · nov/2021 – out/2022 · Mongaguá/SP**
 
-**Estagiário de Informática \| Nov 2021 -- Out 2022**
-- Suporte técnico e manutenção de computadores.
-- Intranet em PHP, MySQL, jQuery e AJAX.
+- Desenvolvimento de sistema interno com **PHP, MySQL, jQuery e AJAX**, reduzindo processos manuais da equipe.
+- Suporte a redes, equipamentos, backups e Active Directory.
 
-------------------------------------------------------------------------
+## Formação
 
-## 🛠️ Tecnologias
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+FATEC Praia Grande · ago/2021 – em andamento
 
--   **Java (Struts), PHP (Laravel), React.js, Vue.js, JavaScript
-    (ES6+)**
--   **MySQL, Oracle (fundamentos)**
--   **Git, GitHub, Docker, CI/CD, Scrum**
--   **REST APIs, jQuery, AJAX**
+<details>
+<summary><strong>Cursos e certificações</strong></summary>
 
-------------------------------------------------------------------------
+- Java com Git — Alura
+- Scrum Fundamentals Certified (SFC)
+- Database Foundations — Oracle
+- Laravel Web Services Restful — EspecializaTi
+- PHP PSRs — EspecializaTi
+- React — Alura
+- Vue.js 3 — EspecializaTi
 
-## 📚 Certificações
+</details>
 
--   Scrum Fundamentals Certified (SFC)
--   Java com Git -- Alura
--   Laravel Web Services Restful -- EspecializaTi
--   PHP PSRs -- EspecializaTi
--   Database Foundations -- Oracle
--   React -- Alura
--   Vue.js 3 -- EspecializaTi
+**Idiomas:** português nativo · inglês básico (A2, EF SET), com leitura habitual de documentação técnica.
 
-------------------------------------------------------------------------
+## Vamos conversar?
 
-## 🌎 Idiomas
+Para conversar sobre oportunidades em **desenvolvimento Java e backend**, entre em contato:
 
--   Inglês -- A2 (EF SET)
-
-------------------------------------------------------------------------
-
-## 📈 Estatísticas do GitHub
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=danilusantos&show_icons=true&theme=tokyonight)
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilusantos&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-## 💬 Contato
-
-📧 **danilondosantos@gmail.com**
-🔗 **LinkedIn:** https://linkedin.com/in/danilondosantos
+- **E-mail:** [danilondosantos@gmail.com](mailto:danilondosantos@gmail.com)
+- **LinkedIn:** [linkedin.com/in/danilondosantos](https://www.linkedin.com/in/danilondosantos/)
+- **Telefone:** +55 (13) 99763-0543
