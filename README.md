@@ -1,6 +1,6 @@
 # Danilo Nascimento dos Santos
 
-### Desenvolvedor Java | Backend Developer | APIs REST | MySQL
+### Desenvolvedor Java | Fullstack Developer | APIs REST | MySQL
 
 Experiência profissional com **Java, Struts 2, JDBC e testes unitários**. Projetos com **Spring Boot e Spring Data JPA**, somados à vivência full stack com React e TypeScript.
 
@@ -11,7 +11,7 @@ Experiência profissional com **Java, Struts 2, JDBC e testes unitários**. Proj
 
 ## Sobre mim
 
-Sou desenvolvedor de software com atuação em desenvolvimento web desde 2022 e foco em **backend Java**. Atualmente, trabalho no **SOC — Software de Saúde e Segurança do Trabalho**, desenvolvendo funcionalidades, evoluindo aplicações legadas e integrando frontend, backend e banco de dados.
+Sou desenvolvedor de software com atuação em desenvolvimento web desde 2022 e foco em **backend Java e frontend React**. Atualmente, trabalho no **SOC — Software de Saúde e Segurança do Trabalho**, desenvolvendo funcionalidades, evoluindo aplicações legadas e integrando frontend, backend e banco de dados.
 
 Minha experiência inclui **análise de causa raiz de bugs, refatoração incremental, APIs REST e testes com JUnit e Mockito**. A vivência com React, TypeScript e Laravel complementa minha visão do fluxo completo de uma aplicação.
 
