@@ -1,8 +1,8 @@
 # Danilo Nascimento dos Santos
 
-### Desenvolvedor Java | Fullstack Developer | APIs REST | MySQL
+### Desenvolvedor Full Stack | Java | React | TypeScript | MySQL
 
-Experiência profissional com **Java, Struts 2, JDBC e testes unitários**. Projetos com **Spring Boot e Spring Data JPA**, somados à vivência full stack com React e TypeScript.
+Experiência profissional com **Java, React, TypeScript, MySQL e testes unitários**. Desenvolvo aplicações web de ponta a ponta, conectando interfaces, APIs REST e banco de dados.
 
 📍 Praia Grande, São Paulo, Brasil  
 [LinkedIn](https://www.linkedin.com/in/danilondosantos/) · [E-mail](mailto:danilondosantos@gmail.com) · [Projetos](https://github.com/danilusantos?tab=repositories)
@@ -17,7 +17,7 @@ Minha experiência inclui **análise de causa raiz de bugs, refatoração increm
 
 Nos meus projetos, aprofundo o uso de **Java 21 e Spring Boot**, explorando persistência, APIs REST e organização de código em camadas. Também estudo Java avançado, design patterns e arquitetura de software.
 
-**Foco de carreira:** desenvolvimento Java, backend e APIs, com atenção à qualidade do código e à evolução de sistemas.
+**Foco de carreira:** desenvolvimento full stack com Java e React, com atenção à qualidade do código, experiência do usuário e evolução de sistemas.
 
 ## Projetos em destaque
 
@@ -42,11 +42,12 @@ Ambiente de apoio ao desenvolvimento com serviços MySQL e Redis em containers.
 
 | Contexto | Tecnologias e práticas |
 | --- | --- |
+| **Frontend na experiência profissional** | React, TypeScript, JavaScript, JSP, HTML, CSS e Bootstrap |
 | **Backend na experiência profissional** | Java, Struts 2, JDBC, APIs REST, PHP e Laravel |
 | **Java nos projetos** | Java 21, Spring Boot, Spring Data JPA e Maven |
 | **Qualidade e manutenção** | JUnit, Mockito, Jest, testes unitários, análise de bugs e refatoração incremental |
 | **Banco de dados** | MySQL, SQL, modelagem e otimização de consultas |
-| **Frontend** | React, TypeScript, JavaScript, JSP, HTML, CSS e Bootstrap |
+
 | **Ferramentas e colaboração** | Git, GitHub, GitLab, Docker, Scrum e Kanban |
 
 ## Experiência profissional
@@ -96,7 +97,7 @@ FATEC Praia Grande · ago/2021 – em andamento
 
 ## Vamos conversar?
 
-Para conversar sobre oportunidades em **desenvolvimento Java e backend**, entre em contato:
+Para conversar sobre oportunidades em **desenvolvimento full stack, Java ou React**, entre em contato:
 
 - **E-mail:** [danilondosantos@gmail.com](mailto:danilondosantos@gmail.com)
 - **LinkedIn:** [linkedin.com/in/danilondosantos](https://www.linkedin.com/in/danilondosantos/)
